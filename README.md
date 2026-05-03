@@ -24,7 +24,7 @@
 
 ```
 image-to-ico/
-├── index.html      # 主页面（包含所有HTML、CSS、JavaScript）
+├── imagetoico.html      # 主页面（包含所有HTML、CSS、JavaScript）
 ├── README.md       # 项目说明文档
 ├── .gitignore      # Git忽略文件
 └── LICENSE         # 开源许可证
